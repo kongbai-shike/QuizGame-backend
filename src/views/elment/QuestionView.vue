@@ -185,12 +185,12 @@ export default {
                 options: "巴黎，巴黎，巴黎，巴黎",
                 answer: "巴黎",
             }, {
-                id: "2",
+                id: "3",
                 question: "法国的首都是什么城市",
                 options: "巴黎，巴黎，巴黎，巴黎",
                 answer: "巴黎",
             }, {
-                id: "2",
+                id: "4",
                 question: "法国的首都是什么城市",
                 options: "巴黎，巴黎，巴黎，巴黎",
                 answer: "巴黎",
@@ -221,5 +221,6 @@ export default {
     }
 }
 </script>
+
 
 <style></style>
